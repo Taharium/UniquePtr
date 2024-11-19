@@ -1,0 +1,6 @@
+
+.vscode/settings.json
+winBuild/main.exe
+/winBuild
+/wslClangBuild
+/wslG++Build
